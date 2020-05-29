@@ -1,0 +1,10 @@
+adminUser:
+  password: local:hwaf/adminUser:password
+  username: admin
+enableDocker: false
+pipelineUser:
+  email: jenkinsx@beyondit.it
+  token: local:hwaf/pipelineUser:token
+  username: JenkinsxBeyondIt
+prow:
+  hmacToken: local:hwaf/prow:hmacToken
